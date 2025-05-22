@@ -14,7 +14,7 @@
 
 img:hover{
   width: 300px; 
-    border: dotted #77966D 10px;
+    border: dotted 77966D 10px;
     border-radius: 70%;
 
 }
@@ -26,4 +26,30 @@ h2:hover{
   
 }
   
+
+nav {
+  list-style-type: none;
+  background-color: #333;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 15px;
+}
+
+li {
+  display: inline;
+  padding: 50px;
+}
+
+li a {
+  text-decortation: none;
+  color: white;
+  padding: 25px 106px;   
+}
+
+li a:hover {
+  background-color: wheat;
+  color: black;
+}
  
