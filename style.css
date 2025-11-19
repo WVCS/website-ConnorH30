@@ -1,53 +1,15 @@
-  <style>
-    h3 {
-  color: #77966D;
-  text-decoration: overline underline 5px; 
-  letter-spacing: 4px;
-  text-shadow: 2px 2px black;
-  font-size: 35px;
-  font-style: italic;
-}
-  body {
-  background-color: grey;
- 
-}  
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Page 1</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
 
-img:hover{
-  width: 300px; 
-    border: dotted 77966D 10px;
-    border-radius: 70%;
-
-}
-
-h2:hover{
-  text-decoration: underline wavy black 20px;
-  font-size: 400%;
-  text-transform: uppercase;
-  
-}
-  
- nav {
-  list-style-type: none;
-  background-color: #333;
-  width: 100%;
-  position: fixed;
-  top: 0;
-  left: 0;
-  padding: 15px;
-}
-
-li {
-  display: inline;
-  padding: 50px;
-}
-
-li a {
-  text-decortation: none;
-  color: white;
-  padding: 25px 106px;   
-}
-
-li a:hover {
-  background-color: wheat;
-  color: black;
-}
+<body>
+	<center> 
+		  <h1> My App </h1>
+	<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/U8gX7Xy7WTKrlUfWzd841gvVm_1voKvy2G3jv5t-YTk/embed?nosource"></iframe>
+		</center>
+</body>
+</html>
